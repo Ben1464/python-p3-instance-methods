@@ -4,3 +4,6 @@ class Person:
 
     def walk(self):
         print("The person is walking.")
+
+    def training(self):
+        print("The person is training")    

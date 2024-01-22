@@ -5,6 +5,9 @@ class Dog:
     def sit(self):
         print("The dog is sitting.")
 
+    def eating(self):
+        print("The dog id eating")    
+
    
 
 
